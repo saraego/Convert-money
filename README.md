@@ -3,7 +3,7 @@ Estudos
 
 # Criançao de minPage basico para praticar html css e JavaScript
 
-<img src="./assents/foto.png" width="400" alt="projeto">
+<img src="./assets/foto.png" width="400" alt="projeto">
 
 > Concluido estudo com html css e js.
 
